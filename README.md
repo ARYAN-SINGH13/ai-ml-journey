@@ -57,5 +57,4 @@ I am committed to updating this repository consistently with meaningful progress
 
 ## Author
 Aryan Singh 
-
 Aspiring AI/ML Engineer
