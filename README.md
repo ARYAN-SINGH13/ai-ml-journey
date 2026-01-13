@@ -33,7 +33,8 @@ This repository is not just a collection of files — it reflects my discipline,
 ---
 
 ## Progress Log
-- Day 1: Repository initialized and AI/ML journey started  
+- Day 1: Python basics practice (variables, input/output, conditions)
+
 
 (This section will be updated regularly.)
 
