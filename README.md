@@ -33,8 +33,8 @@ This repository is not just a collection of files — it reflects my discipline,
 ---
 
 ## Progress Log
-- Day 1: Python basics practice (variables, input/output, conditions)
-
+- Day 1: Python basics, conditions, and mini calculator
+- Day 2: Practiced loops, prime logic, retry system, and pattern problems
 
 (This section will be updated regularly.)
 
