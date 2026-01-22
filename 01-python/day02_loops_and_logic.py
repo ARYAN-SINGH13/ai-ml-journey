@@ -4,10 +4,6 @@
 
 print("AI/ML Journey - Day 2\n")
 
-# Day 2 - Loops and Logic Practice
-# Author: Aryan Singh
-# Topics: Loops, Conditions, Prime Numbers, Password System, Patterns
-
 #A) Sum of numbers from 1 to n
 n = int(input())
 
